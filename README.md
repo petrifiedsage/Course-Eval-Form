@@ -1,5 +1,5 @@
-# Professor Rating App
-The Professor Rating App is a Streamlit application that enables students to review their professors and provide ratings on various teaching aspects. It also allows students to leave comments about their professors. The app includes a dashboard that analyzes the ratings using a radar plot and performs sentiment analysis on the received comments.
+# Course Evaluation Form
+The Course Evaluation Form is a Streamlit application that enables students to review their professors and provide ratings on various teaching aspects. It also allows students to leave comments about their professors. The app includes a dashboard that analyzes the ratings using a radar plot and performs sentiment analysis on the received comments.
 
 [Project Link](https://prof-review-analysis.azurewebsites.net)
 
