@@ -12,8 +12,8 @@ The Course Evaluation Form is a Streamlit web application that enables students 
 * azure
 
 ## Azure Services
-* App Services: Web app
-* Cognitive Services: Language
+* Azure Web Apps
+* Azure Cognitive Services - Language
 
 ## Features
 * Course Review Submission: Students can submit reviews for their professors, providing ratings and comments on various teaching aspects.
