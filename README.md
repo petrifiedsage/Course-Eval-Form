@@ -1,7 +1,7 @@
 # Course Evaluation Form
 The Course Evaluation Form is a Streamlit web application that enables students to review their courses and provide ratings on various aspects like course content, instructor's effectiveness, class environment,etc. It also allows students to leave comments about their particular course. This application also includes a dashboard that analyzes the ratings using a radar plot and performs sentiment analysis on the received comments.
 
-[Project Link]([(https://courseevalform.azurewebsites.net/)])
+[Project Link](https://courseevalform.azurewebsites.net/)
 
   
 ## Python Packages
