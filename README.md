@@ -1,10 +1,9 @@
 # Course Evaluation Form
-The Course Evaluation Form is a Streamlit application that enables students to review their professors and provide ratings on various teaching aspects. It also allows students to leave comments about their professors. The app includes a dashboard that analyzes the ratings using a radar plot and performs sentiment analysis on the received comments.
+The Course Evaluation Form is a Streamlit web application that enables students to review their courses and provide ratings on various aspects like course content, instructor's effectiveness, class environment,etc. It also allows students to leave comments about their particular course. This application also includes a dashboard that analyzes the ratings using a radar plot and performs sentiment analysis on the received comments.
 
-[Project Link](https://prof-review-analysis.azurewebsites.net)
+[Project Link]([(https://courseevalform.azurewebsites.net/)])
 
-[Project Demo Link](https://www.youtube.com/watch?v=NQE-mnKBWao)
-
+  
 ## Python Packages
 * streamlit
 * pandas
@@ -17,7 +16,7 @@ The Course Evaluation Form is a Streamlit application that enables students to r
 * Cognitive Services: Language
 
 ## Features
-* Professor Review Submission: Students can submit reviews for their professors, providing ratings and comments on various teaching aspects.
+* Course Review Submission: Students can submit reviews for their professors, providing ratings and comments on various teaching aspects.
 * Rating System: Students can rate professors on different categories such as teaching effectiveness, communication, clarity and organization, knowledge and expertise, classroom management, course materials, and availability and support.
 * Comment Section: Students can leave comments about their professors, sharing their experiences, feedback, and any additional comments they may have.
 * Radar Chart Visualization: The application generates radar charts to visually represent the average ratings of professors across different teaching aspects. This helps in understanding the overall performance of professors in a concise and visual manner.
