@@ -3,6 +3,8 @@ The Course Evaluation Platform is a Streamlit web application that enables stude
 
 [Project Link](https://courseevalform.azurewebsites.net/)
 
+[Project Demo Link](https://youtu.be/8agpWW7MSd8)
+
   
 ## Python Packages
 * streamlit
